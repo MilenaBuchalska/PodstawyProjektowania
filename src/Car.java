@@ -26,6 +26,6 @@ public class Car {
     }
 
     public void stopEngine(String percent){
-        System.out.println("Silnik został zwolniony o "+ percent);
+        System.out.println("Silnik został zwolniony o "+ percent+" %");
     }
 }
